@@ -1,0 +1,25 @@
+h1, h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4em;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2em;
+}
+p, button, a{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p,a{
+    font-weight: 500;
+}
+
+.texte-rouge{
+    color: $rouge;
+}
+.texte-bleu{
+    color: $bleu;
+}
+.texte-italique{
+    font-style: italic;
+}

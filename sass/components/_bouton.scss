@@ -1,0 +1,17 @@
+#bouton-haut{
+    background-color: $bleu;
+    border-radius: 5px;
+    color: $blanc;
+    padding : 1em 3.5em;
+    font-weight: 600;
+}
+#bouton-bas{
+    border: solid;
+    border-width: 2px;;
+    border-color: $noir;
+    border-radius: 5px;
+    color: $rouge;
+
+    padding : 1em 3.5em;
+    font-weight: 600;
+}
